@@ -5,4 +5,5 @@ const router = new Router();
 
 router.get("/", usuariosGet);
 
+// Sintaxis para exportar 
 module.exports = router;
